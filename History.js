@@ -14,7 +14,7 @@ class History {
         this._lastStep = [];
     }
 
-    pop() {
+    pop() {   
         return this._history.pop();
     }
 
