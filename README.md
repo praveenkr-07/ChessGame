@@ -2,8 +2,8 @@
 
 A fully playable chess game built with vanilla JavaScript, featuring a Human vs Human mode and a Human vs AI mode powered by the Minimax algorithm.
 
-🔗 Live Demo: praveenkr-07.github.io/ChessGame
-
+live demo : https://praveenkr-07.github.io/ChessGame/ 
+   
 Features
 
 
